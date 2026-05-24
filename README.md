@@ -2,7 +2,7 @@
 
 # hey, I'm Pratik 👋
 
-**Creative AI Engineer · India**
+**Creative AI Engineer **
 
 *I understand how models think, then make them useful.*
 
