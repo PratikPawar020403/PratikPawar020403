@@ -1,8 +1,8 @@
 <div align="center">
 
-# hey, I'm Pratik 👋
+# Hey, I'm Pratik 👋
 
-*I understand how models think, then make them useful.*
+*I love to understand how models think, then make them useful.*
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Creative+AI+Engineer;Building+AI+Agents+%26+Automation;RAG+%7C+Multi-Agent+Systems+%7C+AI+Infra;Turning+AI+into+useful+products" />
