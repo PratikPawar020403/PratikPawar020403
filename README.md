@@ -1,88 +1,178 @@
+
+# Pratik Pawar
+
 <div align="center">
 
-# Hey, I'm Pratik 👋
+> *A desire to know makes me wonder. Wonder makes me learn. But the more I learn, the more I realise how little I understand. Perhaps it is enough to know that I do not know.*
 
-*I love to understand how models think, then make them useful.*
+<sub>Inspired by the ideas of Aristotle · Plato · Socrates · Heraclitus</sub>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Creative+AI+Engineer;Building+AI+Agents+%26+Automation;RAG+%7C+Multi-Agent+Systems+%7C+AI+Infra;Turning+AI+into+useful+products" />
+<br/>
+
+**AI Builder | Curious About Intelligence | AI Safety Explorer**
+
+I find problems worth solving, imagine things that should exist, and use AI as my building assistant.
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=17&pause=1800&color=8B8B8B&center=true&vCenter=true&width=680&lines=Building+things+that+should+exist;Exploring+the+nature+of+intelligence;Studying+how+AI+models+behave;Thinking+about+AI+safety+and+alignment" alt="Building things that should exist · Exploring intelligence · Studying AI behaviour · Thinking about AI safety" />
 </p>
 
-</div>
-
----
-
-### About
-
-I sit at the intersection of **AI systems** and **real-world problems** — building products that are practical, reliable, and actually useful.
-
-- 🤖 Currently focused on **AI agents & automation**
-- 🧠 Interested in retrieval systems, context engineering, and model reasoning
-- ⚡ Turning model-level understanding into production-ready experiences
----
-
-### Featured Projects
-
-| Project | Description |
-|---|---|
-| [⚖️ Legal-Sakha](https://github.com/PratikPawar020403/Legal-Sakha) | RAG-powered assistant for the Indian legal framework with semantic retrieval |
-| [🛡️ Privacy-Guard](https://github.com/PratikPawar020403/Privacy-Guard) | Chrome extension that detects and protects sensitive Indian documents before accidental sharing |
-| [💪 FitFocus](https://github.com/PratikPawar020403/FitFocus) | Responsive fitness dashboard with health tracking, metrics, and calculators |
-
----
-
-### Tech Stack
-
-#### AI & Models
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D4A853?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-20808D?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-#### AI IDEs & Tools
-
-![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
-
-#### Frameworks & Development
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=flat-square&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-#### Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-### Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-s-pawar-780443358/)
-
-[![🌐 Main Portfolio](https://img.shields.io/badge/Main%20Portfolio-111111?style=flat-square&logo=safari&logoColor=white)](https://psp-02-portfolio.netlify.app/)
-
-[![📱 Phone Peek](https://img.shields.io/badge/Phone%20Peek-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://psp-phone-peek.netlify.app/)
+[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [Kaggle](https://www.kaggle.com/pratikp02)
 
 </div>
 
 ---
 
+## 01 / Projects by Type
+
+A quick look at the different kinds of things I build.
+
+| WEB | ML | AI |
+|:---:|:---:|:---:|
+| [FitFocus](https://github.com/PratikPawar020403/FitFocus) | [Voice Detection](https://github.com/PratikPawar020403/voice_detection) | [Legal-Sakha](https://github.com/PratikPawar020403/Legal-Sakha) |
+| [Privacy-Guard](https://github.com/PratikPawar020403/Privacy-Guard) | | [Automation Workflows](https://github.com/PratikPawar020403/automation-workflows) |
+| | | MetaNova · Details coming soon |
+
+---
+
+## 02 / Selected Projects
+
+I like building around problems worth solving. These are some of the things I've explored and brought to life.
+
+### 01 — Legal-Sakha
+
+**Making legal knowledge easier to explore.**
+
+A RAG-powered AI assistant focused on the Indian legal framework, using semantic retrieval to connect user questions with relevant legal information.
+
+`RAG` · `Semantic Retrieval` · `AI`
+
+[Explore repository ↗](https://github.com/PratikPawar020403/Legal-Sakha)
+
+### 02 — Voice Detection
+
+**Exploring the signals behind artificial speech.**
+
+A multilingual voice detection solution using acoustic feature analysis and machine learning to identify AI-generated speech.
+
+`Python` · `Machine Learning` · `Audio Analysis`
+
+[Explore repository ↗](https://github.com/PratikPawar020403/voice_detection)
+
+### 03 — Automation Workflows
+
+**Making useful things happen with less friction.**
+
+A collection of practical AI automation workflows designed to simplify real-world tasks and turn repetitive processes into useful outcomes.
+
+`AI Automation` · `Workflows` · `Integrations`
+
+[Explore repository ↗](https://github.com/PratikPawar020403/automation-workflows)
+
+### 04 — MetaNova
+
+**An evolving exploration.**
+
+More details coming soon.
+
+`AI` · `Research` · `Experimentation`
+
+[Repository link to be added]
+
+---
+
+### Other Things I've Built
+
+**Privacy-Guard**
+
+A Chrome extension designed to detect and protect sensitive Indian documents and information from accidental sharing.
+
+[Explore repository ↗](https://github.com/PratikPawar020403/Privacy-Guard)
+
+**FitFocus**
+
+A responsive fitness dashboard featuring health tracking, metrics, and calculators.
+
+[Explore repository ↗](https://github.com/PratikPawar020403/FitFocus)
+
+---
+
+## 03 / Research & Experiments
+
+Beyond building products, I'm interested in understanding how intelligent systems behave, where they fail, and how we can evaluate them.
+
+### Nova-Cog-Syntax
+*The Mirror of Intelligence*
+
+**Does a model know what it doesn't know?**
+
+An independent benchmark exploration into AI metacognition — investigating how models handle unfamiliar information, ask questions, update their confidence, and decide when they have enough information to answer.
+
+The initial design used procedurally generated synthetic languages and a structured teacher–student interaction.
+
+Evaluation exposed weaknesses in the scoring system, while the original research framing evolved. I'm currently rethinking and redesigning the benchmark rather than treating the initial version as validated.
+
+**Explore the work:**
+
+- [Kaggle Research Write-up ↗](https://www.kaggle.com/competitions/kaggle-measuring-agi/writeups/the-mirror-of-intelligence-nova-cog-syntax)
+- [Dataset ↗](https://www.kaggle.com/datasets/pratikp02/nova-cog-syntax-data)
+- [Kaggle Notebook ↗](https://www.kaggle.com/code/pratikp02/nova-cog-syntax-code-1)
+
+*Nova-Cog-Syntax is evolving into MetaNova.*
+
+---
+
+## 04 / Things I'm Trying to Understand
+
+Some questions don't have easy answers. These are areas I keep returning to.
+
+- **Philosophy of AI** — What is intelligence, and what does it mean to understand?
+- **Human Psychology** — How do people think, perceive, reason, and behave?
+- **Artificial Minds** — Why do AI models behave the way they do? What can their behaviour tell us about intelligence?
+- **AI Safety & Alignment** — How do we understand, evaluate, and guide increasingly capable systems?
+- **Human & Artificial Intelligence** — What can studying one teach us about the other?
+
+I explore these through research papers, online lectures, experiments, benchmarks, and independent study.
+
+---
+
+## 05 / Tools & Technologies
+
+**AI Development**
+
+<img src="https://img.shields.io/badge/Google_Antigravity-222222?style=flat-square" alt="Google Antigravity" />
+<img src="https://img.shields.io/badge/Claude_Code-222222?style=flat-square" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Codex_(Occasional)-222222?style=flat-square" alt="Codex" />
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+
+**Machine Learning**
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square" alt="YOLO" />
+
+**Research & Experimentation**
+
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+
+---
+
+## 06 / Connect
+
+I'm always interested in exchanging ideas, exploring interesting problems, and connecting with people who enjoy thinking beyond the obvious.
+
+[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [Kaggle](https://www.kaggle.com/pratikp02)
+
 <div align="center">
 
-<sub>Building useful intelligence. Thinking deeper</sub>
+<br/>
+
+*Always open to interesting questions, ideas, and conversations.*
 
 </div>
