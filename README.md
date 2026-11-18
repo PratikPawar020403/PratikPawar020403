@@ -118,45 +118,21 @@ I explore these through research papers, online lectures, experiments, benchmark
 
 ## 05 / Tools & Technologies
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**AI Development**
 
-**AI DEVELOPMENT**
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square" /> <img src="https://img.shields.io/badge/Codex-333333?style=flat-square&logo=openai&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" /> <sub>PRIMARY</sub>
+**Machine Learning**
 
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square" alt="Claude Code" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/YOLO-333333?style=flat-square" />
 
-<img src="https://img.shields.io/badge/Codex-222222?style=flat-square&logo=openai&logoColor=white" alt="Codex" /> <sub>Occasional</sub>
+**Languages**
 
-**LANGUAGES**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+**Research & Experimentation**
 
-</td>
-<td width="50%" valign="top">
-
-**MACHINE LEARNING**
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-
-<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square" alt="YOLO" />
-
-**RESEARCH & EXPERIMENTATION**
-
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
-
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-
-</td>
-</tr>
-</table>
-
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 ---
 
 ## 06 / Connect
