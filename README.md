@@ -138,7 +138,7 @@ I explore these through research papers, online lectures, experiments, benchmark
 
 [Phone Peek](https://psp-phone-peek.netlify.app/) · [Insta Folio](https://insta-folio.netlify.app/)
 
-[LinkedIn](https://www.linkedin.com/in/pratik-s-pawar-780443358/) · [Kaggle](https://www.kaggle.com/pratikp02) . [Gmail](pratikpawar0222@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/pratik-s-pawar-780443358/) · [Kaggle](https://www.kaggle.com/pratikp02) . [Gmail](mailto:pratikpawar0222@gmail.com) 
 
 <br/>
 
