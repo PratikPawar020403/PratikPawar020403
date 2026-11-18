@@ -163,7 +163,7 @@ I explore these through research papers, online lectures, experiments, benchmark
 
 <div align="center">
 
-[Main Portfolio](https://psp-02-portfolio.netlify.app/) · [Phone Peek](https://psp-phone-peek.netlify.app/) · [Insta__Folio]((https://insta-folio.netlify.app/))
+[Main Portfolio](https://psp-02-portfolio.netlify.app/) · [Phone Peek](https://psp-phone-peek.netlify.app/) · [Insta Folio](https://insta-folio.netlify.app/)
 
 [LinkedIn](https://www.linkedin.com/in/pratik-s-pawar-780443358/) · [Kaggle](https://www.kaggle.com/pratikp02)
 
