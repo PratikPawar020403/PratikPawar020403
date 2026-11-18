@@ -39,7 +39,7 @@ I find problems worth solving, imagine things that should exist, and use AI as m
 
 ## 02 / Selected Projects
 
-I build around problems worth solving. These are some of the things I've explored and brought to life.
+I build around problems worth solving. These are some of the things I've explored and built.
 
 ### 01 — Legal-Sakha
 
