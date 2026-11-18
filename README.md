@@ -20,7 +20,7 @@ I find problems worth solving, imagine things that should exist, and use AI as m
   </picture>
 </p>
 
-[Main Portfolio](https://psp-02-portfolio.netlify.app/) · [Phone Peek](https://psp-phone-peek.netlify.app/) · [Insta__Folio]((https://insta-folio.netlify.app/))
+[Main Portfolio](https://psp-02-portfolio.netlify.app/) · [Phone Peek](https://psp-phone-peek.netlify.app/) · [Insta__Folio](https://insta-folio.netlify.app/)
 
 [LinkedIn](https://www.linkedin.com/in/pratik-s-pawar-780443358/) · [Kaggle](https://www.kaggle.com/pratikp02)
 
