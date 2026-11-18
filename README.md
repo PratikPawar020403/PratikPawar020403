@@ -1,26 +1,26 @@
 # Pratik Pawar
 
-\<div align="center">
+<div align="center">
 
-\<h2>\<em>A desire to know makes me wonder. Wonder makes me learn. But the more I learn, the more I realise how little I understand. Perhaps it is enough to know that I do not know.\</em>\</h2>
+<h2><em>A desire to know makes me wonder. Wonder makes me learn. But the more I learn, the more I realise how little I understand. Perhaps it is enough to know that I do not know.</em></h2>
 
-\<sub>Inspired by the ideas of Aristotle · Plato · Socrates · Heraclitus\</sub>
+<sub>Inspired by the ideas of Aristotle · Plato · Socrates · Heraclitus</sub>
 
-\<br/>
+<br/>
 
 **AI Builder | Curious About Intelligence | AI Safety Explorer**
 
 I find problems worth solving, imagine things that should exist, and use AI as my building assistant.
 
-\<p>
-&#x20; \<img src="[https://readme-typing-svg.herokuapp.com?font=Inter&size=17&pause=1800&color=FFFFFF&center=true&vCenter=true&width=680&lines=Building+things+that+should+exist;Exploring+the+nature+of+intelligence;Studying+how+AI+models+behave;Thinking+about+AI+safety+and+alignment](https://readme-typing-svg.herokuapp.com?font=Inter\&size=17\&pause=1800\&color=FFFFFF\&center=true\&vCenter=true\&width=680\&lines=Building+things+that+should+exist;Exploring+the+nature+of+intelligence;Studying+how+AI+models+behave;Thinking+about+AI+safety+and+alignment)" alt="Building, exploring intelligence, studying AI behaviour and safety" />
-\</p>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=17&pause=1800&color=FFFFFF&center=true&vCenter=true&width=680&lines=Building+things+that+should+exist;Exploring+the+nature+of+intelligence;Studying+how+AI+models+behave;Thinking+about+AI+safety+and+alignment" alt="Building, exploring intelligence, studying AI behaviour and safety" />
+</p>
 
 [Main Portfolio](https://psp-02-portfolio.netlify.app/) · [Phone Peek](https://psp-phone-peek.netlify.app/) · [Third Portfolio](YOUR_THIRD_PORTFOLIO_URL)
 
 [LinkedIn](https://www.linkedin.com/in/pratik-s-pawar-780443358/) · [Kaggle](https://www.kaggle.com/pratikp02)
 
-\</div>
+</div>
 
 ---
 
@@ -28,11 +28,11 @@ I find problems worth solving, imagine things that should exist, and use AI as m
 
 *A collection of things I've built across different domains.*
 
-|                                WEB                                |                                    ML                                   |                                         AI                                        |                                 CYBER                                 |
-| :---------------------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-|    [Ani-Realm](https://github.com/PratikPawar020403/ani-realm)    | [Voice Detection](https://github.com/PratikPawar020403/voice_detection) |          [Legal-Sakha](https://github.com/PratikPawar020403/Legal-Sakha)          | [Cyber-Surkhsha](https://github.com/PratikPawar020403/cyber-surkhsha) |
-| [Vibe Designs](https://github.com/PratikPawar020403/vibe-designs) |   [CardioInsight](https://github.com/PratikPawar020403/cardioinsight)   | [Automation Workflows](https://github.com/PratikPawar020403/automation-workflows) |         [Keylog](https://github.com/PratikPawar020403/keylog)         |
-|     [FitFocus](https://github.com/PratikPawar020403/FitFocus)     |  [PotholeSahayak](https://github.com/PratikPawar020403/PotholeSahayak)  |                               MetaNova · Coming soon                              |  [Privacy-Guard](https://github.com/PratikPawar020403/Privacy-Guard)  |
+| WEB | ML | AI | CYBER |
+| :---: | :---: | :---: | :---: |
+| [Ani-Realm](https://github.com/PratikPawar020403/ani-realm) | [Voice Detection](https://github.com/PratikPawar020403/voice_detection) | [Legal-Sakha](https://github.com/PratikPawar020403/Legal-Sakha) | [Cyber-Surkhsha](https://github.com/PratikPawar020403/cyber-surkhsha) |
+| [Vibe Designs](https://github.com/PratikPawar020403/vibe-designs) | [CardioInsight](https://github.com/PratikPawar020403/cardioinsight) | [Automation Workflows](https://github.com/PratikPawar020403/automation-workflows) | [Keylog](https://github.com/PratikPawar020403/keylog) |
+| [FitFocus](https://github.com/PratikPawar020403/FitFocus) | [PotholeSahayak](https://github.com/PratikPawar020403/PotholeSahayak) | MetaNova · Coming soon | [Privacy-Guard](https://github.com/PratikPawar020403/Privacy-Guard) |
 
 ---
 
@@ -114,52 +114,57 @@ I explore these through research papers, online lectures, experiments, benchmark
 
 ## 05 / Tools & Technologies
 
-\<table> \<tr> \<td width="50%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **AI DEVELOPMENT**
 
-\<img src="[https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square\&logo=google\&logoColor=white)" alt="Google Antigravity" /> \<sub>PRIMARY\</sub>
+<img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" /> <sub>PRIMARY</sub>
 
-\<img src="[https://img.shields.io/badge/Claude_Code-D97757?style=flat-square](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square" alt="Claude Code" />
 
-\<img src="[https://img.shields.io/badge/Codex-222222?style=flat-square&logo=openai&logoColor=white](https://img.shields.io/badge/Codex-222222?style=flat-square\&logo=openai\&logoColor=white)" alt="Codex" /> \<sub>Occasional\</sub>
+<img src="https://img.shields.io/badge/Codex-222222?style=flat-square&logo=openai&logoColor=white" alt="Codex" /> <sub>Occasional</sub>
 
 **LANGUAGES**
 
-\<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)" alt="Python" /> \<img src="[https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)" alt="R" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
 
-\</td> \<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **MACHINE LEARNING**
 
-\<img src="[https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 
-\<img src="[https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)" alt="PyTorch" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
 
-\<img src="[https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
 
-\<img src="[https://img.shields.io/badge/YOLO-111111?style=flat-square](https://img.shields.io/badge/YOLO-111111?style=flat-square)" alt="YOLO" />
+<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square" alt="YOLO" />
 
 **RESEARCH & EXPERIMENTATION**
 
-\<img src="[https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square\&logo=kaggle\&logoColor=white)" alt="Kaggle" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
 
-\<img src="[https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
 
-\</td> \</tr> \</table>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 06 / Connect
 
-\<div align="center">
+<div align="center">
 
 [Main Portfolio](https://psp-02-portfolio.netlify.app/) · [Phone Peek](https://psp-phone-peek.netlify.app/) · [Third Portfolio](YOUR_THIRD_PORTFOLIO_URL)
 
 [LinkedIn](https://www.linkedin.com/in/pratik-s-pawar-780443358/) · [Kaggle](https://www.kaggle.com/pratikp02)
 
-\<br/>
+<br/>
 
 *Always open to interesting questions, ideas, and conversations.*
 
-\</div>
+</div>
