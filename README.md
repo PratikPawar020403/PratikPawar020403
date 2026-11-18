@@ -12,11 +12,15 @@
 
 I find problems worth solving, imagine things that should exist, and use AI as my building assistant.
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=17&pause=1800&color=FFFFFF&center=true&vCenter=true&width=680&lines=Building+things+that+should+exist;Exploring+the+nature+of+intelligence;Studying+how+AI+models+behave;Thinking+about+AI+safety+and+alignment" alt="Building, exploring intelligence, studying AI behaviour and safety" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=17&pause=1800&color=FFFFFF&center=true&vCenter=true&width=680&lines=Building+things+that+should+exist;Exploring+the+nature+of+intelligence;Studying+how+AI+models+behave;Thinking+about+AI+safety+and+alignment">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=17&pause=1800&color=333333&center=true&vCenter=true&width=680&lines=Building+things+that+should+exist;Exploring+the+nature+of+intelligence;Studying+how+AI+models+behave;Thinking+about+AI+safety+and+alignment">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=17&pause=1800&color=333333&center=true&vCenter=true&width=680&lines=Building+things+that+should+exist;Exploring+the+nature+of+intelligence;Studying+how+AI+models+behave;Thinking+about+AI+safety+and+alignment" alt="Animated introduction">
+  </picture>
 </p>
 
-[Main Portfolio](https://psp-02-portfolio.netlify.app/) · [Phone Peek](https://psp-phone-peek.netlify.app/) · [Third Portfolio](YOUR_THIRD_PORTFOLIO_URL)
+[Main Portfolio](https://psp-02-portfolio.netlify.app/) · [Phone Peek](https://psp-phone-peek.netlify.app/) · [Insta__Folio]((https://insta-folio.netlify.app/))
 
 [LinkedIn](https://www.linkedin.com/in/pratik-s-pawar-780443358/) · [Kaggle](https://www.kaggle.com/pratikp02)
 
@@ -159,7 +163,7 @@ I explore these through research papers, online lectures, experiments, benchmark
 
 <div align="center">
 
-[Main Portfolio](https://psp-02-portfolio.netlify.app/) · [Phone Peek](https://psp-phone-peek.netlify.app/) · [Third Portfolio](YOUR_THIRD_PORTFOLIO_URL)
+[Main Portfolio](https://psp-02-portfolio.netlify.app/) · [Phone Peek](https://psp-phone-peek.netlify.app/) · [Insta__Folio]((https://insta-folio.netlify.app/))
 
 [LinkedIn](https://www.linkedin.com/in/pratik-s-pawar-780443358/) · [Kaggle](https://www.kaggle.com/pratikp02)
 
