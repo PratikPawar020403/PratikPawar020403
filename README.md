@@ -62,14 +62,11 @@ A multilingual voice detection solution using acoustic feature analysis and mach
 [Explore repository ↗](https://github.com/PratikPawar020403/voice_detection)
 
 ### 03 — MetaNova
-
-**An evolving exploration.**
-
-More details coming soon.
-
-`AI` · `Research` · `Experimentation`
-
+**Evaluating whether AI models know what they don’t know.**
+An independent benchmark project on AI metacognition, currently being rebuilt from an earlier prototype (NovaSyntax).
+AI · Evaluation · Metacognition
 [Repository link to be added]
+
 
 ---
 
