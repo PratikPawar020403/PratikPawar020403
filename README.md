@@ -62,37 +62,30 @@ A multilingual voice detection solution using acoustic feature analysis and mach
 [Explore repository ↗](https://github.com/PratikPawar020403/voice_detection)
 
 ### 03 — MetaNova
-**Evaluating whether AI models know what they don’t know.**
-An independent benchmark project on AI metacognition, currently being rebuilt from an earlier prototype (NovaSyntax).
-AI · Evaluation · Metacognition
-[Repository link to be added]
 
+**Testing whether AI models know what they don't know.**
+
+An independent benchmark for AI metacognition: how models handle unfamiliar information, ask clarifying questions, update their confidence, and decide when they have enough to answer. Currently being rebuilt with a validated scorer.
+
+`AI Evaluation` · `Metacognition` · `Benchmarking`
+
+*Repository link to be added*
 
 ---
 
-## 03 / Research & Experiments
+## 🔬 Research & Experiments
 
 Beyond building products, I'm interested in understanding how intelligent systems behave, where they fail, and how we can evaluate them.
 
-### Nova-Cog-Syntax
-
-*The Mirror of Intelligence*
+### MetaNova *(formerly Nova-Cog-Syntax / The Mirror of Intelligence)*
 
 **Does a model know what it doesn't know?**
 
-An independent benchmark exploration into AI metacognition — investigating how models handle unfamiliar information, ask questions, update their confidence, and decide when they have enough information to answer.
+An independent benchmark exploring AI metacognition: how models handle unfamiliar information, ask for clarification, update their confidence, and decide when they have enough information to answer.
 
-The initial design used procedurally generated synthetic languages and a structured teacher–student interaction.
+The first version used procedurally generated synthetic languages and a structured teacher–student interaction. An audit found problems in the scoring system and in some gold answers, so I'm treating that version as a prototype rather than a validated result. I'm rebuilding the scorer and answer keys before running final model evaluations.
 
-Evaluation exposed weaknesses in the scoring system, while the original research framing evolved. I'm currently rethinking and redesigning the benchmark rather than treating the initial version as validated.
-
-**Explore the work:**
-
-- [Kaggle Research Write-up ↗](https://www.kaggle.com/competitions/kaggle-measuring-agi/writeups/the-mirror-of-intelligence-nova-cog-syntax)
-- [Dataset ↗](https://www.kaggle.com/datasets/pratikp02/nova-cog-syntax-data)
-- [Kaggle Notebook ↗](https://www.kaggle.com/code/pratikp02/nova-cog-syntax-code-1)
-
-*Nova-Cog-Syntax is evolving into MetaNova.*
+> **Status:** redesign in progress. Results will be published once the scoring is validated.
 
 ---
 
